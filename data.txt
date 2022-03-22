@@ -1,0 +1,88 @@
+8dcd60a1-fa19-4cda-8158-9c460f60f9bd, Arvel Crynyd, 0, 0, brown, fair, brown, NA, male, NA, Human
+daa0824f-565b-470b-98e0-c408242acccb, Luke Skywalker, 172, 77, blond, fair, blue, 19BBY, male, Tatooine, Human
+7bf9c32d-29ce-4bbe-8ebf-00dbac68c596, C-3PO, 167, 75, NA, gold, yellow, 112BBY, NA, Tatooine, Droid
+b8da86ba-83f1-4469-bb95-be48bdf19031, R2-D2, 96, 32, NA, white, blue, red, 33BBY, NA, Naboo, Droid
+c1c0ff2f-c499-4f34-bacc-a3bbf265dc70, Darth Vader, 202, 136, none, white, yellow, 41.9BBY, male, Tatooine, Human
+b5d75384-8da6-4965-a079-0d1290a7b6a6, Leia Organa, 150, 49, brown, light, brown, 19BBY, female, Alderaan, Human
+eacf7c23-9d5b-4f28-a8ff-9c4b242bbd83, Owen Lars, 178, 120, brown, grey, light, blue, 52BBY, male, Tatooine, Human
+d5429c84-8318-4423-9419-7450c090786b, Beru Whitesun lars, 165, 75, brown, light, blue, 47BBY, female, Tatooine, Human
+3ed337a7-7ae8-4dc1-9dfb-0293db6ec9a2, R5-D4, 97, 32, NA, white, red, red, NA, NA, Tatooine, Droid
+eab25544-f196-4d9d-8f95-6cb407b7f924, Biggs Darklighter, 183, 84, black, light, brown, 24BBY, male, Tatooine, Human
+1b60713f-d4b8-4960-8163-3f44895a19ce, Obi-Wan Kenobi, 182, 77, auburn, white, fair, blue-gray, 57BBY, male, Stewjon, Human
+81be9258-7e4e-407b-bbf5-78eaf3dc72d8, Anakin Skywalker, 188, 84, blond, fair, blue, 41.9BBY, male, Tatooine, Human
+223203bc-8aca-411d-86bb-b224b0618eea, Wilhuff Tarkin, 180, 0, auburn, grey, fair, blue, 64BBY, male, Eriadu, Human
+9a92e09d-c017-495b-aaec-40273d7de13a, Chewbacca, 228, 112, brown, NA, blue, 200BBY, male, Kashyyyk, Wookiee
+63ecce5a-b491-4ae1-9aa5-577dce41214b, Han Solo, 180, 80, brown, fair, brown, 29BBY, male, Corellia, Human
+5d5243d6-cf12-4084-9aa8-9e9c07cde99e, Greedo, 173, 74, NA, green, black, 44BBY, male, Rodia, Rodian
+78f9c3a9-6fae-4beb-9905-3471d3e33e98, Jabba Desilijic Tiure, 175, 0, NA, green-tan, brown, orange, 600BBY, hermaphrodite, Nal Hutta, Hutt
+d599ceaa-2820-41ae-adfc-4641e31b594f, Wedge Antilles, 170, 77, brown, fair, hazel, 21BBY, male, Corellia, Human
+21cdacea-7ffc-4693-b10c-1e97ceda81b4, Jek Tono Porkins, 180, 110, brown, fair, blue, NA, male, Bestine IV, Human
+89a20b55-8072-4bdb-97cb-4e93093e514e, Yoda, 66, 17, white, green, brown, 896BBY, male, NA, Yoda's species
+bc0f8975-d538-4e5f-a695-487141cb2d3c, Palpatine, 170, 75, grey, pale, yellow, 82BBY, male, Naboo, Human
+8cdc2169-e950-415e-a02d-d3c7970bcb5c, Boba Fett, 183, 0, black, fair, brown, 31.5BBY, male, Kamino, Human
+10fdb091-7e1f-4b1e-895e-a4fc45dc8650, IG-88, 200, 140, none, metal, red, 15BBY, none, NA, Droid
+8abb165a-7d2d-4052-9058-aae664d41211, Bossk, 190, 113, none, green, red, 53BBY, male, Trandosha, Trandoshan
+046bfc66-9862-474f-80a6-9dcde4078911, Lando Calrissian, 177, 79, black, dark, brown, 31BBY, male, Socorro, Human
+f36e306a-e1f4-4309-9806-408a123ef5e4, Lobot, 175, 79, none, light, blue, 37BBY, male, Bespin, Human
+59bd5c02-1ec8-4ba4-99f8-8d20380b3dfa, Ackbar, 180, 83, none, brown mottle, orange, 41BBY, male, Mon Cala, Mon Calamari
+be628eee-e77c-4a37-86b5-a2b786e537a1, Mon Mothma, 150, 0, auburn, fair, blue, 48BBY, female, Chandrila, Human
+8aa0c78f-5ca9-49d7-acc5-6146135081ef, Arvel Crynyd, 0, 0, brown, fair, brown, NA, male, NA, Human
+c3d79d35-919c-4bf7-af0f-10557da7766a, Wicket Systri Warrick, 88, 20, brown, brown, brown, 8BBY, male, Endor, Ewok
+c26a43e9-1067-4b07-8edb-afe613d39321, Nien Nunb, 160, 68, none, grey, black, NA, male, Sullust, Sullustan
+f46bfce6-b05c-4ea1-a995-1e8ad8cc840b, Qui-Gon Jinn, 193, 89, brown, fair, blue, 92BBY, male, NA, Human
+64e8dc74-941a-4138-a3ac-415b5ba4f13e, Nute Gunray, 191, 90, none, mottled green, red, NA, male, Cato Neimoidia, Neimodian
+d8109a00-c369-4053-9f14-e33ae5d6e7d6, Finis Valorum, 170, 0, blond, fair, blue, 91BBY, male, Coruscant, Human
+d04e7a1c-1839-4277-8512-e32889323393, Jar Jar Binks, 196, 66, none, orange, orange, 52BBY, male, Naboo, Gungan
+ee76dcad-7f60-4490-8ab0-f028ca4f959a, Roos Tarpals, 224, 82, none, grey, orange, NA, male, Naboo, Gungan
+97121ad2-29b9-44d1-bfab-2eb3034aec34, Rugor Nass, 206, 0, none, green, orange, NA, male, Naboo, Gungan
+4f412496-d79e-4f5f-924d-40025be2cb08, Ric Olié, 183, 0, brown, fair, blue, NA, male, Naboo, NA
+a23d0ab1-24ce-495e-8f53-e72d5e8fdd99, Watto, 137, 0, black, blue, grey, yellow, NA, male, Toydaria, Toydarian
+40968652-e9b9-4b9e-be36-4554d7ec8b7b, Sebulba, 112, 40, none, grey, red, orange, NA, male, Malastare, Dug
+a0f47621-a613-4ae7-8c7e-4714394a32b0, Quarsh Panaka, 183, 0, black, dark, brown, 62BBY, male, Naboo, NA
+d9767f79-73f9-41f5-bc59-3eebb40936cf, Shmi Skywalker, 163, 0, black, fair, brown, 72BBY, female, Tatooine, Human
+0201f75d-4cdc-4216-a0b0-ebb9ad3fdf95, Darth Maul, 175, 80, none, red, yellow, 54BBY, male, Dathomir, Zabrak
+7434624a-9a39-482e-971c-f9d451982618, Bib Fortuna, 180, 0, none, pale, pink, NA, male, Ryloth, Twi'lek
+b79c2558-44a0-42af-9c09-80cc4eb6b23f, Ayla Secura, 178, 55, none, blue, hazel, 48BBY, female, Ryloth, Twi'lek
+0c4bf6aa-7f9b-4654-b382-12f7fc718e24, Dud Bolt, 94, 45, none, blue, grey, yellow, NA, male, Vulpter, Vulptereen
+ce61a5c7-1824-4827-8609-40fb8b1dc4e6, Gasgano, 122, 0, none, white, blue, black, NA, male, Troiken, Xexto
+8a52b901-8def-4044-8576-329dae8ed420, Ben Quadinaros, 163, 65, none, grey, green, yellow, orange, NA, male, Tund, Toong
+cc48ef91-6fd4-4b7e-9698-80a9e3e1ae9a, Mace Windu, 188, 84, none, dark, brown, 72BBY, male, Haruun Kal, Human
+4430268a-db09-4b59-a60d-8c82662f0ce9, Ki-Adi-Mundi, 198, 82, white, pale, yellow, 92BBY, male, Cerea, Cerean
+07fa4ecb-ac6b-4d47-bbfb-8ab93b1e7a9d, Kit Fisto, 196, 87, none, green, black, NA, male, Glee Anselm, Nautolan
+ecb3bb55-f9da-4c46-b41d-beda12f811f6, Eeth Koth, 171, 0, black, brown, brown, NA, male, Iridonia, Zabrak
+f9b7b403-467c-4e97-a146-f3b1660afee3, Adi Gallia, 184, 50, none, dark, blue, NA, female, Coruscant, Tholothian
+24c91492-755d-4506-9fb3-d0558e23bd48, Saesee Tiin, 188, 0, none, pale, orange, NA, male, Iktotch, Iktotchi
+37b4fac4-1a02-4927-aab7-6b45c2af2a9d, Yarael Poof, 264, 0, none, white, yellow, NA, male, Quermia, Quermian
+8c48d7b0-ea18-4c80-887b-c7406c1bb562, Plo Koon, 188, 80, none, orange, black, 22BBY, male, Dorin, Kel Dor
+1d62010a-0a65-45db-92bf-56a64f7adc2b, Mas Amedda, 196, 0, none, blue, blue, NA, male, Champala, Chagrian
+54ea6150-236b-43bd-ae85-c690b8c52135, Gregar Typho, 185, 85, black, dark, brown, NA, male, Naboo, Human
+9a8631cb-45b1-4018-a44b-0cf11fddbe76, Cordé, 157, 0, brown, light, brown, NA, female, Naboo, Human
+73a71a47-c2a0-4482-a9ae-749fc73088b9, Cliegg Lars, 183, 0, brown, fair, blue, 82BBY, male, Tatooine, Human
+c8c0eae0-e75b-467d-bc5c-7f9ee197a96f, Poggle the Lesser, 183, 80, none, green, yellow, NA, male, Geonosis, Geonosian
+8042f0bb-cc3b-4437-ba53-6399954eb837, Luminara Unduli, 170, 0, black, yellow, blue, 58BBY, female, Mirial, Mirialan
+afbdb2c6-befe-4220-abad-bf8c838f8aaa, Barriss Offee, 166, 50, black, yellow, blue, 40BBY, female, Mirial, Mirialan
+861ab4ae-3165-4f9c-8a2b-bad3331cc84a, Dormé, 165, 0, brown, light, brown, NA, female, Naboo, Human
+349daeaf-a937-4200-af53-45ace3050f50, Dooku, 193, 80, white, fair, brown, 102BBY, male, Serenno, Human
+1e9bb440-9513-4727-978a-053e65b95c2f, Bail Prestor Organa, 191, 0, black, tan, brown, 67BBY, male, Alderaan, Human
+9c2c335c-09ad-4f55-9f85-d8b14a44220d, Jango Fett, 183, 79, black, tan, brown, 66BBY, male, Concord Dawn, Human
+ae24a96a-c196-4514-8ebd-78a0e022ee91, Zam Wesell, 168, 55, blonde, fair, green, yellow, yellow, NA, female, Zolan, Clawdite
+39c47fb4-f0ea-4720-b3a6-f5f9907ca6b5, Dexter Jettster, 198, 102, none, brown, yellow, NA, male, Ojom, Besalisk
+9d0a2b86-3134-416b-b256-9d22c5b7511d, Lama Su, 229, 88, none, grey, black, NA, male, Kamino, Kaminoan
+d178ef4f-6f3c-484f-a492-d69c7a541b3b, Taun We, 213, 0, none, grey, black, NA, female, Kamino, Kaminoan
+a7fd75c0-ba7c-4fe0-b0f2-c6c8f902fafb, Jocasta Nu, 167, 0, white, fair, blue, NA, female, Coruscant, Human
+e691fc10-d123-4fe3-a989-104cdb7da3e8, Ratts Tyerell, 79, 15, none, grey, blue, NA, NA, male, Aleen Minor, Aleena
+cd6f727e-dbf8-43e1-8f19-358303945b46, R4-P17, 96, 0, none, silver, red, red, blue, NA, female, NA, NA
+e6a16a20-8232-466e-8e22-596e58818edd, Wat Tambor, 193, 48, none, green, grey, NA, NA, male, Skako, Skakoan
+f0648cc3-2775-4d72-b45a-946562ea21a4, San Hill, 191, 0, none, grey, gold, NA, male, Muunilinst, Muun
+8d20031e-5856-474d-91f6-dfbf75e804e7, Shaak Ti, 178, 57, none, red, blue, white, black, NA, female, Shili, Togruta
+f95583cb-2d3b-4d47-ac0c-347f17a4ab28, Grievous, 216, 159, none, brown, white, green, yellow, NA, male, Kalee, Kaleesh
+f1f94c2c-5dee-476b-9af9-646d923d99de, Tarfful, 234, 136, brown, brown, blue, NA, male, Kashyyyk, Wookiee
+4cd7fb9e-38b6-4147-abb3-38022da6713a, Raymus Antilles, 188, 79, brown, light, brown, NA, male, Alderaan, Human
+68e68cc4-6ecd-431f-8118-ea1e9ca06f44, Sly Moore, 178, 48, none, pale, white, NA, female, Umbara, NA
+2afb2989-2bce-4b27-9f98-6d0e0d3f8b71, Tion Medon, 206, 80, none, grey, black, NA, male, Utapau, Pau'an
+be97848a-f421-4fe0-a628-05e3caaff76a, Finn, 0, 0, black, dark, dark, NA, male, NA, Human
+edc8f600-06a2-4b9a-9d1d-4739a00fc548, Rey, 0, 0, brown, light, hazel, NA, female, NA, Human
+cf211851-5378-49f3-8297-ae0e6b4a1c51, Poe Dameron, 0, 0, brown, light, brown, NA, male, NA, Human
+399985c1-e5b9-45ae-9001-aa6f543d6621, BB8, 0, 0, none, none, black, NA, none, NA, Droid
+70f02fd4-712f-4024-a51c-ad5293819d84, Captain Phasma, 0, 0, NA, NA, NA, NA, female, NA, NA
+84898dd4-f5bf-4a41-b369-ee2c7f7b3aa7, Padmé Amidala, 165, 45, brown, light, brown, 46BBY, female, Naboo, Human
